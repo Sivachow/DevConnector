@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://8632335523si:BgeNdRjhYSXX8Hep@devconnector.8w7cepk.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "Siva's Token"
+}
